@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xH2gP4yxFnQTTxRtoIhCwc/nf/ofiB/Jm8cUW5zqtzcpGRljW/oxKfk3MddP1osItUlieeMDOcpsdYLZIw0X0g==",
+  "success": true,
+  "projectFilePath": "H:\\DRPC\\DRPC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\discordrichpresence\\1.143.0\\discordrichpresence.1.143.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

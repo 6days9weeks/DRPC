@@ -1,0 +1,16 @@
+H:\DRPC\bin\Debug\netcoreapp3.1\DRPC.exe
+H:\DRPC\bin\Debug\netcoreapp3.1\DRPC.deps.json
+H:\DRPC\bin\Debug\netcoreapp3.1\DRPC.runtimeconfig.json
+H:\DRPC\bin\Debug\netcoreapp3.1\DRPC.runtimeconfig.dev.json
+H:\DRPC\bin\Debug\netcoreapp3.1\DRPC.dll
+H:\DRPC\bin\Debug\netcoreapp3.1\DRPC.pdb
+H:\DRPC\bin\Debug\netcoreapp3.1\DiscordRPC.dll
+H:\DRPC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.csprojAssemblyReference.cache
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.AssemblyInfoInputs.cache
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.AssemblyInfo.cs
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.csproj.CoreCompileInputs.cache
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.csproj.CopyComplete
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.dll
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.pdb
+H:\DRPC\obj\Debug\netcoreapp3.1\DRPC.genruntimeconfig.cache
